@@ -34,6 +34,3 @@
   <img align="left" alt="Muhammadrizo6's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Muhammadrizo6&show_icons=true&hide_border=true" />
 
 </details>
-
-[twitter]: https://twitter.com/mrx0608
-[telegram]: https://t.me/muhammadrizodev
