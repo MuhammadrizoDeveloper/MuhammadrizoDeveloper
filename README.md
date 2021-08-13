@@ -5,12 +5,7 @@
 - ✔️ My channels on Telegram: [IT Life](https://t.me/it_life_uz), [Linux uz](https://t.me/linuxuz1)
 - ⚡ Fun fact: I use Zorin OS (Linux)
 
-### Connect with me:
 
-[<img align="left" alt="Muhammadrizo6 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Muhammadrizo6 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-
-<br/>
 
 ### Languages and Tools:
 
