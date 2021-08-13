@@ -13,8 +13,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://cdn.icon-icons.com/icons2/2368/PNG/512/github_logo_icon_143772.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Linux" width="26px" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO-453x500.png" />
-<br>
 
+<hr>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
