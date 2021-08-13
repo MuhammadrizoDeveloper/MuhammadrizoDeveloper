@@ -19,6 +19,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Muhammadrizo6's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Muhammadrizo6&show_icons=true&hide_border=true">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=muhammadrizodeveloper&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" width="500px">      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrizodeveloper&theme=radical&title_color=8E2DE2&text_color=fff)
 
 </details>
