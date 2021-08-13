@@ -18,10 +18,6 @@
 <img align="left" alt="Linux" width="26px" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO-453x500.png" />
 <br>
 
-### My channels on telegram:
-
-- [IT Life](https://t.me/it_life_uz)
-- [LInux uz](https://t.me/linuxuz1)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
