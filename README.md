@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning NodeJS
 - 📫 How to reach me: [Telegram](https://t.me/mrprodev)
-- ⚡ Fun fact: I use Zorin OS (Linux)
+- ⚡ Fun fact: I use Linux
 
 ### Languages and Tools:
 
