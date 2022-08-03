@@ -1,24 +1,67 @@
-### Hi there, I'm Muhammadrizo 👋
+### Hi there <img src="https://raw.githubusercontent.com/samandareo/samandareo/master/wave.gif" width="20px">, <br /> I am *Muhammadrizo*.
+
+
+---
 
 - 🌱 I’m currently learning NodeJS
 - 📫 How to reach me: [Telegram](https://t.me/mrprodev)
 - ⚡ Fun fact: I use Linux
 
-### Languages and Tools:
+---
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Python" width="26px" src="https://brandslogos.com/wp-content/uploads/images/python-logo-vector.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.icon-icons.com/icons2/2368/PNG/512/github_logo_icon_143772.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Linux" width="26px" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO-453x500.png" />
+<br />
 
-<hr>
+## 🔨 Languages and Tools:
+
+[<img align="left" alt="HTML" width="26px" src="./techs/html.svg" />][html]
+[<img align="left" alt="CSS" width="26px" src="./techs/css.svg" />][css]
+[<img align="left" alt="JavaScript" width="26px" src="./techs/javascript.svg" />][javascript]
+[<img align="left" alt="NodeJS" width="26px" src="./techs/nodejs.svg" />][nodejs]
+[<img align="left" alt="Python" width="26px" src="./techs/python.svg" />][python]
+[<img align="left" alt="Postgres" width="26px" src="./techs/postgres.svg" />][postgres]
+[<img align="left" alt="Visual Studio Code" width="26px" src="./techs/vscode.svg" />][vscode]
+[<img align="left" alt="IntelliJ IDEA" width="26px" src="./techs/intellij.svg" />][jetbrains]
+[<img align="left" alt="Powershell" width="26px" src="./techs/powershell.svg" />][powershell]
+[<img align="left" alt="Git" width="26px" src="./techs/git.svg" />][git]
+[<img align="left" alt="GitHub" width="26px" src="./techs/github.svg" />][github]
+[<img align="left" alt="Heroku" width="26px" src="./techs/heroku.svg" />][heroku]
+[<img align="left" alt="Linux" width="26px" src="./techs/linux.svg" />][linux]
+[<img align="left" alt="Windows" width="26px" src="./techs/windows 10.svg" />][windows]
+
+<br />
+<br />
+
+<br />
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=muhammadrizodeveloper&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" width="500px">      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrizodeveloper&theme=radical&title_color=8E2DE2&text_color=fff)
+  <summary>⚜ Top Langs</summary>
+
+  <br />
+
+  ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samandareo&theme=algolia&layout=compact)
 
 </details>
+
+<br />
+
+
+
+
+![Muhammadrizo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadrizoDeveloper&count_private=true&show_icons=true&theme=algolia&include_all_commits=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MuhammadrizoDeveloper&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[html]: https://www.w3schools.com/html/default.asp
+[css]: https://www.w3schools.com/css/default.asp
+[javascript]: https://www.javascript.com/
+[vscode]: https://code.visualstudio.com/
+[jetbrains]: https://www.jetbrains.com/
+[powershell]: https://docs.microsoft.com/en-us/powershell/
+[git]: https://git-scm.com/
+[github]: https://github.com
+[heroku]: https://www.heroku.com/
+[android]: https://www.android.com/
+[linux]: https://www.linux.org/
+[windows]: https://www.microsoft.com/en-us/windows
+
