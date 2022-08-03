@@ -44,11 +44,17 @@ I am learning web development.
 
 <br>
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=muhammadrizodeveloper&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" width="500px">      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrizodeveloper&theme=radical&title_color=8E2DE2&text_color=fff)
+
+</details>
+
 <div align=center>
   <h3><b>👀 Profile Visitor Count</b></h3>
 </div>
 
-<!-- retro visitor counter -->
 <p align="center" >
   <img src="https://profile-counter.glitch.me/MuhammadrizoDeveloper/count.svg" />
 </p>
