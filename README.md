@@ -1,67 +1,54 @@
-### Hi there <img src="https://raw.githubusercontent.com/samandareo/samandareo/master/wave.gif" width="20px">, <br /> I am *Muhammadrizo*.
+### Hi there <img src="https://raw.githubusercontent.com/samandareo/samandareo/master/wave.gif" width="20px">, <br /> I am *Muhammadrizo*
 
+### 💻 About Me
 
----
+- 🤔 Exploring new technologies.
+- 🎓 NodeJS developer.
 
-- 🌱 I’m currently learning NodeJS
-- 📫 How to reach me: [Telegram](https://t.me/mrprodev)
-- ⚡ Fun fact: I use Linux
+I studied at Najot Ta'lim.<br/>
+I am learning web development.
 
----
+- 🔭 I’m currently open to work in Tashkent onsite and remote.
+- 🌱 I’m currently learning NodeJS.
+- 💬 Ask me about NodeJS and Web Development.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I use Linux🐧💖.
 
-<br />
+<br>
 
-## 🔨 Languages and Tools:
+### 💻 Stack I Work With
 
-[<img align="left" alt="HTML" width="26px" src="./techs/html.svg" />][html]
-[<img align="left" alt="CSS" width="26px" src="./techs/css.svg" />][css]
-[<img align="left" alt="JavaScript" width="26px" src="./techs/javascript.svg" />][javascript]
-[<img align="left" alt="NodeJS" width="26px" src="./techs/nodejs.svg" />][nodejs]
-[<img align="left" alt="Python" width="26px" src="./techs/python.svg" />][python]
-[<img align="left" alt="Postgres" width="26px" src="./techs/postgres.svg" />][postgres]
-[<img align="left" alt="Visual Studio Code" width="26px" src="./techs/vscode.svg" />][vscode]
-[<img align="left" alt="IntelliJ IDEA" width="26px" src="./techs/intellij.svg" />][jetbrains]
-[<img align="left" alt="Powershell" width="26px" src="./techs/powershell.svg" />][powershell]
-[<img align="left" alt="Git" width="26px" src="./techs/git.svg" />][git]
-[<img align="left" alt="GitHub" width="26px" src="./techs/github.svg" />][github]
-[<img align="left" alt="Heroku" width="26px" src="./techs/heroku.svg" />][heroku]
-[<img align="left" alt="Linux" width="26px" src="./techs/linux.svg" />][linux]
-[<img align="left" alt="Windows" width="26px" src="./techs/windows 10.svg" />][windows]
+<br>
 
-<br />
-<br />
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<br />
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
-<details>
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-  <summary>⚜ Top Langs</summary>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-  <br />
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-  ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samandareo&theme=algolia&layout=compact)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-</details>
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-<br />
+<hr>
 
+<div align="center">
+  <h3><b>🌐 How to reach me</b></h3>
+</div>
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadrizo-yusufov-640bb5223/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/muhammadrizo.dev/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufovmuhammadrizodev@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/muhammadrizodev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/muhammadrizodev)
 
+<br>
 
-![Muhammadrizo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadrizoDeveloper&count_private=true&show_icons=true&theme=algolia&include_all_commits=true)
+<div align=center>
+  <h3><b>👀 Profile Visitor Count</b></h3>
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MuhammadrizoDeveloper&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[html]: https://www.w3schools.com/html/default.asp
-[css]: https://www.w3schools.com/css/default.asp
-[javascript]: https://www.javascript.com/
-[vscode]: https://code.visualstudio.com/
-[jetbrains]: https://www.jetbrains.com/
-[powershell]: https://docs.microsoft.com/en-us/powershell/
-[git]: https://git-scm.com/
-[github]: https://github.com
-[heroku]: https://www.heroku.com/
-[android]: https://www.android.com/
-[linux]: https://www.linux.org/
-[windows]: https://www.microsoft.com/en-us/windows
-
+<!-- retro visitor counter -->
+<p align="center" >
+  <img src="https://profile-counter.glitch.me/MuhammadrizoDeveloper/count.svg" />
+</p>
