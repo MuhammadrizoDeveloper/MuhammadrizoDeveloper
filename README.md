@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/samandareo/samandareo/master/wave.gif" width="20px">, <br /> I am *Muhammadrizo*
+### Hi there <img src="./wave.gif" width="20px">, <br /> I am *Muhammadrizo*
 
 ### 💻 About Me
 
