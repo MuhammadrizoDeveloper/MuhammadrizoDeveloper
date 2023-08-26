@@ -12,7 +12,7 @@ I am learning web development.
 - 🌱 I’m currently learning NodeJS.
 - 💬 Ask me about NodeJS and Web Development.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I use Arch Linux🐧💖.
+- ⚡ Fun fact: I use Linux🐧💖.
 
 <br>
 
