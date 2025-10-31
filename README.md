@@ -14,6 +14,9 @@ I am learning web development.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I use Linux🐧💖.
 
+Check out my new Raycast extension:
+<a title="Install knowyourmeme Raycast Extension" href="https://www.raycast.com/muhammadrizo/knowyourmeme"><img src="https://www.raycast.com/muhammadrizo/knowyourmeme/install_button@2x.png?v=1.1" height="64" alt="" style="height: 64px;"></a>
+
 <br>
 
 ### 💻 Stack I Work With
