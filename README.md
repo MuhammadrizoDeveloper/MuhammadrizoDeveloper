@@ -11,7 +11,6 @@ I am learning web development.
 - 🔭 I’m currently open to work in Tashkent onsite and remote.
 - 🌱 I’m currently learning NodeJS.
 - 💬 Ask me about NodeJS and Web Development.
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I use Linux🐧💖.
 
 #### Check out my new Raycast extension:
